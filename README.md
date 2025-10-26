@@ -54,14 +54,6 @@ The project demonstrates an end-to-end **machine learning regression workflow** 
 
 ---
 
-## 🖼️ Visualizations
-1. **Actual vs Predicted IMDb Ratings**
-   ![Prediction Scatter Plot](example_scatter.png)
-
-2. **Top 10 Important Features**
-   ![Feature Importance](example_importance.png)
-
----
 
 ## 📁 Files
 - `movie.csv` — Movie dataset  
